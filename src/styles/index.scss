@@ -1,0 +1,15 @@
+@import "./custom.mixin.scss";
+
+html {
+  font-size: 16px;
+}
+
+html,
+body {
+  background: #e9e9f3;
+}
+
+
+header {
+  display: flex;
+}

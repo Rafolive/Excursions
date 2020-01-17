@@ -1,0 +1,2231 @@
+{
+  "success": true,
+  "data": {
+    "daysOfWeek": [
+      {
+        "id": 1,
+        "order": 1,
+        "name": "Понедельник"
+      },
+      {
+        "id": 2,
+        "order": 2,
+        "name": "Вторник"
+      },
+      {
+        "id": 3,
+        "order": 3,
+        "name": "Среда"
+      },
+      {
+        "id": 4,
+        "order": 4,
+        "name": "Четверг"
+      },
+      {
+        "id": 5,
+        "order": 5,
+        "name": "Пятница"
+      },
+      {
+        "id": 6,
+        "order": 6,
+        "name": "Суббота"
+      },
+      {
+        "id": 0,
+        "order": 7,
+        "name": "Воскресенье"
+      }
+    ],
+    "durations": [
+      {
+        "id": 0,
+        "name": "по запросу"
+      },
+      {
+        "id": 3,
+        "name": "более 8-ми часов"
+      }
+    ],
+    "pageNumber": 1,
+    "pageSize": 50,
+    "totalCount": 10,
+    "items": [
+      {
+        "id": 18,
+        "masterExcursionId": 1684,
+        "packetId": 624314,
+        "name": "Салоники + Enigma Shopping Center",
+        "photo": "/userfiles/excursiongalleries/pictures/5/2406.jpeg",
+        "description": "<p>Салоники - второй по величине город Греции, который по праву считается одним из красивейших городов страны. Его часто называют «невестой севера», так как Салоники является столицей северной Греции или Македонии.</p>\r\n<p>Во время экскурсии Вы сможете посетить:</p>\r\n<p>- акрополь города и крепостные стены, откуда можно любоваться прекрасным видом на город Салоники.</p>\r\n<p>- «Белую башню», построенную в XV в., и являющуюся символом города.</p>\r\n<p>-  Храм Св. Димитрия, покровителя города Салоник.</p>\r\n<p>Перед экскурсией либо после неё у Вас будет свободное время, что даст Вам возможность посетить торговые центры и магазины города, а также прогуляться по знаменитой набережной, и узнать, что чувствуешь, когда у твоих ног плещется Термический залив.</p>\r\n<p>Памятники, включенные в список всемирного наследия ЮНЕСКО: Ротонда, храм Ахиропиитоса и Агиу Димитриу, монастырь Латому, храм Святой Софии, Собор Панагии Халкеон, храмы Агиоса Пантелеймона, Святых Апостолов, Святого Николая Орфаноса, Св. Екатерины и Спасителя Христа Пантократора, Монастырь Влатадон, храм Пророка Илии, Византийские Лутра и Стены Солуни.</p>\r\n<p> </p>\r\n<p><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида. Enigma Mall посещается в летний сезон.</em></p>",
+        "seoUrl": "ex-thessaloniki",
+        "durationCategory": 3,
+        "daysOfWeek": [1, 5],
+        "availableDates": [
+          "2020-06-01",
+          "2020-06-05",
+          "2020-06-08",
+          "2020-06-12",
+          "2020-06-15",
+          "2020-06-19",
+          "2020-06-22",
+          "2020-06-26",
+          "2020-06-29"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2406.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2406.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7822.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7822.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7816.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7816.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7819.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7819.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7821.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7821.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7824.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7824.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7826.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7826.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7828.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7828.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7829.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7829.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7831.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7831.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7833.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7833.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2405.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2405.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2403.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2403.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2392.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2392.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2391.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2391.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2394.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2394.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2393.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2393.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2395.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2395.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2396.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2396.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2397.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2397.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2398.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2398.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2399.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2399.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2400.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2400.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2401.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2401.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2402.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2402.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2404.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2404.jpeg",
+            "order": 26
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00+03:00",
+        "availableTo": "2020-06-29T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 3129.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTY4NF9fM18tNzg3NjU5MzcxXzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 3129.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTY4NF9fNTRfLTc4NzY1OTM3MF8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 1738.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTY4NF9fNzFfLTc4NzY1OTM2OV8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 26,
+        "masterExcursionId": 1654,
+        "packetId": 624314,
+        "name": "Аридея + Эдесса",
+        "photo": "/userfiles/excursiongalleries/pictures/13/6016.jpeg",
+        "description": "<p><span lang=\"RU\">Отдых с максимальной пользой для здоровья тела и души.</span></p>\r\n<p><span lang=\"RU\">Поистине сказочное место с неописуемой красотой гор, чистым воздухом и кристальной водой горных ручейков ждет Вас в местечке Лутраки, расположенного недалеко от города <strong>Аридея.</strong> «Сад Эдема», как его ещё называют, поистине впечатлит самого требовательного путешественника. Богатая растительность, водопады, головокружительное ущелье, протянувшееся на 15 км вдоль реки, таинственные сталагмитовые пещеры, - и все это посреди зеленого леса, через который протекает река Термопотамос (греч.: теплая река) - просто завораживают своей красотой. </span><span lang=\"RU\">С античных времен это место известно на всю Европу своими омолаживающими и оздоравливающими горячими источниками. Еще воины Александра Македонского залечивали здесь свои раны и готовились к новым походам.</span></p>\r\n<p><span lang=\"RU\">Лечебная вода на протяжении многих веков плодотворно влияла на здоровье человека. Терапевтические свойства воды рекомендуются для лечения суставов и костей, дыхательной системы, гинекологических и кожных заболеваний, нервной системы, нарушения циркуляции крови. Лечебная питьевая вода рекомендуется при заболеваниях печени, желчного пузыря, почек, пищеварительной системы, а также при плохой циркуляции крови. Сегодня гидролечебница располагает 4-мя бассейнами (4м х 2,5м), 50-ю индивидуальными ваннами и бассейном размером 25м х 12м под открытым небом.</span></p>\r\n<p><span lang=\"RU\">Водопады в наши дни стали визитной карточкой курортной <strong>Эдессы</strong>. Также сюда туристов влекут и другие природные красоты города: многочисленные водные каналы, большие зеленые парки (в честь Александра Великого, Катарактон, Киупри), маленькие мосты, перекинутые через водные городские артерии. В Греции, по мнению опытных путешественников, нет более романтичного и красивого города, чем Эдесса. Возможно, именно поэтому с каждым годом его посещает все больше и больше туристов с разных уголков планеты.</span></p>\r\n<p><span lang=\"RU\"><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</em></span></p>",
+        "seoUrl": "ex-aridea-edessa",
+        "durationCategory": 3,
+        "daysOfWeek": [2, 4],
+        "availableDates": [
+          "2020-06-02",
+          "2020-06-04",
+          "2020-06-09",
+          "2020-06-11",
+          "2020-06-16",
+          "2020-06-18",
+          "2020-06-23",
+          "2020-06-25",
+          "2020-06-30"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6016.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6016.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6013.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6013.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6014.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6014.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6015.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6015.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6017.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6017.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6018.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6018.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6019.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6019.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6020.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6020.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6021.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6021.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6022.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6022.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2491.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2491.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2492.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2492.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2502.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2502.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2493.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2493.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2494.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2494.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2495.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2495.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2496.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2496.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2497.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2497.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2498.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2498.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2499.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2499.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2500.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2500.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2501.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2501.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2503.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2503.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2504.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2504.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2505.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2505.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2507.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2507.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3368.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3368.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3370.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3370.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3374.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3374.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3369.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3369.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3373.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3373.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3372.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3372.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3371.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3371.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3367.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3367.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2508.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2508.jpeg",
+            "order": 35
+          }
+        ],
+        "availableFrom": "2020-06-02T00:00:00+03:00",
+        "availableTo": "2020-06-30T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 3476.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTY1NF9fM18tNTgyMzQ4NzA0XzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 3476.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTY1NF9fNTRfLTU4MjM0ODcwM18xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 1738.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTY1NF9fNzFfLTU4MjM0ODcwMl8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 553,
+        "masterExcursionId": 1679,
+        "packetId": 624314,
+        "name": "По святым местам Салоник (Однодневное паломничество)",
+        "photo": "/userfiles/excursiongalleries/pictures/258/7999.jpeg",
+        "description": "<p>Знакомство с Салониками начнется с Акрополя и обхода древних стен, окружающих исторический центр Солуни. Остановившись на смотровой площадке, можно будет полюбоваться панорамным видом города, распростертого на берегах Термического залива.</p>\r\n<p>Далее совершим обзорную поездку по святыням Салоник на автобусе, с остановками у основных достопримечательностей.</p>\r\n<p>Посетим храм великомученика Димитрия Солунского, в котором покоятся его святые мощи, а в подземной части находится крипта, где святой Димитрий принял мученическую смерть.</p>\r\n<p>Следующая остановка – у Римской Агоры; осмотр площади Аристотеля; монастыря св. Феодоры Мироточивой, где хранятся ее святые мощи. После этого можно будет погрузиться в неповторимую атмосферу храма Святой Софии Премудрости Божией, построенного по типу древней Константинопольской Софии.</p>\r\n<p>Далее можно будет помолиться в митрополии Салоник – храме, где почивают мощи святителя Григория Паламы. После этого мы посетим монастырь Феодоры, где почивают мощи этой Солунской святой и прп. Давида Солунского. А сохранившийся в обители катакомбный храм VI века даст возможность прикоснуться к сокровенной духовной жизни первохристианских времен.</p>\r\n<p>По окончании этой части программы остается свободное время – примерно 1,5 часа. После чего – совершим переезд в пригород Салоник, чтобы посетить древний мужской монастырь св. Анастасии Узорешительницы (IX в.) и женский монастырь апостола Иоанна Богослова, где находится могилка старца Паисия Святогорца.</p>\r\n<p> *Посещение святых мест предусматривает определённую форму одежды: для мужчин – длинные брюки и закрытые плечи; для женщин – юбка ниже колена, закрытая линия декольте и плеч (голову покрывать не обязательно).</p>\r\n<p> </p>\r\n<p><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</em></p>",
+        "seoUrl": "excursion-po-svjatim-mestam-salonik",
+        "durationCategory": 3,
+        "daysOfWeek": [2],
+        "availableDates": [
+          "2020-06-02",
+          "2020-06-09",
+          "2020-06-16",
+          "2020-06-23",
+          "2020-06-30"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7999.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7999.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7998.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7998.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8000.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8000.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8001.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8001.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8002.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8002.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8003.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8003.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8004.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8004.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8005.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8005.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8006.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8006.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8007.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8007.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8008.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8008.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8009.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8009.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8010.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8010.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8011.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8011.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8012.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8012.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8013.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8013.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8014.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8014.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8015.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8015.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8016.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8016.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8017.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8017.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8018.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8018.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8019.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8019.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8020.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8020.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8021.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8021.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8022.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8022.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8023.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8023.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8024.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8024.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8025.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8025.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8026.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8026.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8027.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8027.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7815.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7815.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3109.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3109.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3108.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3108.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7837.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7837.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7840.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7840.jpeg",
+            "order": 35
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3107.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3107.jpeg",
+            "order": 36
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3110.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3110.jpeg",
+            "order": 37
+          }
+        ],
+        "availableFrom": "2020-06-02T00:00:00+03:00",
+        "availableTo": "2020-06-30T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 3476.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTY3OV9fM18tNzg3NjU5MzgzXzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 3476.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTY3OV9fNTRfLTc4NzY1OTM4Ml8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 1738.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTY3OV9fNzFfLTc4NzY1OTM4MV8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 554,
+        "masterExcursionId": 2852,
+        "packetId": 624314,
+        "name": "По святым местам Верии и окрестностей (Однодневное паломничество)",
+        "photo": "/userfiles/excursiongalleries/pictures/261/7820.jpeg",
+        "description": "<p>Путешествие начнется с города Салоник – с посещения храма апостола Павла, где хранится частица его святых мощей.</p>\r\n<p>Далее мы посетим скит святого Иоанна Предтечи, рядом с которым находится пещера, где подвизались многие святые, в том числе основоположник исихазма святитель Григорий Палама. В монастыре находится собрание святых мощей, среди которых часть правой руки св. Иоанна Крестителя.</p>\r\n<p><strong> </strong></p>\r\n<p>Знакомство с городом Верия начнется с храма, в котором хранятся мощи св. Антония Верийского – покровителя города. Трибуна апостола Павла – место, откуда звучала его горячая проповедь, привлекшая к вере во Христа многие тысячи людей, перенесет паломников в первохристианские времена.</p>\r\n<p>А в местечке Кастанья находится храм Панагии Сумела, в котором хранится древний чудотворный образ Богородицы, по преданию, написанный апостолом Лукой. От этой иконы и в наше время происходит множество разнообразных чудес.</p>\r\n<p>Потом мы посетим мужской монастырь Панагия Довра (XII в.), посвящённый Успению Пресвятой Богородицы. В нем пребывают чтимые святыни – чудотворный образ Панагия Довра, десница Димитрия Солунского, частица мощей святителя Луки Войно-Ясенецкого. </p>\r\n<p>*Посещение святых мест предусматривает определённую форму одежды: для мужчин – длинные брюки и закрытые плечи; для женщин – юбка ниже колена, закрытая линия декольте и плеч (голову покрывать не обязательно).</p>\r\n<p><em>* Экскурсия проводится только в летний период.</em></p>",
+        "seoUrl": "excursion-po-svjatim-mestam-verii",
+        "durationCategory": 3,
+        "daysOfWeek": [4],
+        "availableDates": [
+          "2020-06-04",
+          "2020-06-11",
+          "2020-06-18",
+          "2020-06-25"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7820.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7820.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7817.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7817.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7836.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7836.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7838.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7838.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7842.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7842.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7843.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7843.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7844.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7844.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7845.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7845.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7846.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7846.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7847.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7847.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7848.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7848.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7849.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7849.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7850.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7850.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7851.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7851.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7852.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7852.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7853.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7853.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7854.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7854.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7855.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7855.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7856.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7856.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7857.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7857.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7858.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7858.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7859.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7859.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4770.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4770.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4771.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4771.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4766.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4766.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4757.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4757.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4753.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4753.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4751.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4751.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4752.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4752.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4754.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4754.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4756.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4756.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4758.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4758.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4759.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4759.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4760.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4760.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4761.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4761.jpeg",
+            "order": 35
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4762.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4762.jpeg",
+            "order": 36
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4763.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4763.jpeg",
+            "order": 37
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4764.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4764.jpeg",
+            "order": 38
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4765.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4765.jpeg",
+            "order": 39
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4767.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4767.jpeg",
+            "order": 40
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4768.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4768.jpeg",
+            "order": 41
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4769.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4769.jpeg",
+            "order": 42
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4772.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4772.jpeg",
+            "order": 43
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4755.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4755.jpeg",
+            "order": 44
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4773.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4773.jpeg",
+            "order": 45
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4774.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4774.jpeg",
+            "order": 46
+          }
+        ],
+        "availableFrom": "2020-06-04T00:00:00+03:00",
+        "availableTo": "2020-06-25T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 3476.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "Mjg1Ml9fM18tODgwNzA3MzA4XzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 3476.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "Mjg1Ml9fNTRfLTg4MDcwNzMwN18xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 1738.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "Mjg1Ml9fNzFfLTg4MDcwNzMwNl8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 199,
+        "masterExcursionId": 1723,
+        "packetId": 624314,
+        "name": "Вергина - Олимп - Дион",
+        "photo": "/userfiles/excursiongalleries/pictures/141/2409.jpeg",
+        "description": "<p><span lang=\"RU\">Прикоснитесь к античной истории, познакомьтесь с тем, как жили великие македонские цари и станьте чуть ближе к богам, посетив невероятные Вергину, Олимп и Дион, которые никого не оставят равнодушным.</span></p>\r\n<p><span lang=\"RU\">В ходе нашего путешествия мы поднимемся на величественный <strong>Олимп</strong> – легендарную гору, древнюю обитель богов, еще с детства знакомую многим. Именно отсюда громовержец Зевс вершил свое правосудие, метал гром и молнию и наблюдал за смертными. Здесь жила покровительница брака хитрая Гера, прекрасная Афродита, мудрая Афина и другие боги. Древние греки не осмеливались подняться на священную гору, чтобы не прогневать богов-олимпийцев, только великие герои могли вознестись на Олимп. У нас же будет возможность подняться на высоту 1000 м. над уровнем моря на автобусе и сделать небольшую остановку на смотровой площадке, где вы услышите увлекательный рассказ о пантеоне греческих богов и насладитесь магической красотой Олимпийской гряды и Эгейского моря.</span></p>\r\n<p><span lang=\"RU\">Также мы посетим <strong>Дион</strong> - древний македонский город, где находился жертвенный алтарь Зевса. Этот город был построен </span><span class=\"apple-converted-space\"> </span><span lang=\"RU\">царем Архелаем для поклонения олимпийским богам.</span><span lang=\"RU\"> Сегодня это настоящий музей под открытым небом. Вы сможете прогуляться по хорошо сохранившимся античным улицам и представить насколько могущественным городом было это место сотни лет назад! В Дионе сохранились разрушенные святилища Деметры и Исиды, чей культ процветал в эпоху Эллинизма, античный Одеон, римские бани, украшенные мозаикой, жилая часть древнего города, «дворец Диониса», античные колонны и статуи. </span></p>\r\n<p><span lang=\"RU\">Не менее насыщенным и впечатляющим станет посещение <strong>Вергины</strong> - первой столицы древней Македонии, которая в древности носила имя Эгес (Эги). Н<span>есмотря на то, что в 4-ом столетии до н.э. столица Древней Македонии была перенесена в Пеллу, Эги сохранила статус священного города и усыпальницы македонских царей. Вероятно, причиной тому было предание, которое гласило, что правящей династии наступит конец, как только один из царей будет упокоен за пределами города. </span></span></p>\r\n<p><span lang=\"RU\">Свою всемирную известность современная Вергина обрела уже в 1977 году, ведь именно тогда </span><span lang=\"RU\">археологические раскопки позволили обнаружить неразграбленную царскую гробницу Филиппа </span>II<span lang=\"RU\">, отца Александра Македонского. Это событие  по праву можно считать одним из самых важных открытий 20 века, а посещение гробниц и музея, где хранятся удивительные археологические находки, позволит вам стать свидетелем <span>величия Древней Греции и, возможно, Вергина откроет вам свои секреты.</span></span></p>\r\n<p><span lang=\"RU\">С 1996 г. Эгес в Вергине включен в список всемирного наследния ЮНЕСКО.</span></p>\r\n<p><span lang=\"RU\"><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</em></span></p>",
+        "seoUrl": "vergina-olimp-dion-2012",
+        "durationCategory": 3,
+        "daysOfWeek": [0, 3],
+        "availableDates": [
+          "2020-06-03",
+          "2020-06-07",
+          "2020-06-10",
+          "2020-06-14",
+          "2020-06-17",
+          "2020-06-21",
+          "2020-06-24",
+          "2020-06-28",
+          "2020-07-01"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2409.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2409.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6003.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6003.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2415.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2415.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2407.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2407.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2414.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2414.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2422.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2422.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6001.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6001.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2408.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2408.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2410.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2410.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6002.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6002.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2412.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2412.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6005.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6005.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2413.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2413.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2416.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2416.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2417.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2417.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2418.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2418.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2419.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2419.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2420.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2420.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2411.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2411.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5988.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5988.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5989.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5989.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5987.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5987.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5990.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5990.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5991.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5991.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2424.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2424.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2423.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2423.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6004.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6004.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2425.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2425.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2426.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2426.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2427.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2427.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2428.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2428.jpeg",
+            "order": 31
+          }
+        ],
+        "availableFrom": "2020-06-03T00:00:00+03:00",
+        "availableTo": "2020-07-01T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 3824.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTcyM19fM18tNzg3NjYzNDQxXzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 3824.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTcyM19fNTRfLTc4NzY2MzQ0MF8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 2086.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTcyM19fNzFfLTc4NzY2MzQzOV8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 1442,
+        "masterExcursionId": 1701,
+        "packetId": 624314,
+        "name": "Метеоры ",
+        "photo": "/userfiles/excursiongalleries/pictures/31/5228.jpeg",
+        "description": "<!--<p style=\"text-align: justify;\"><span style=\"font-family: arial, sans-serif; font-size: 11px; font-weight: bold; color: #737373; line-height: 16px;\">Продолжительность:</span> полный день</p>\r\n<p style=\"text-align: justify;\">В стоимость входит: переезд по программе, экскурсия с гидом, посещение одного или нескольких монастырей</p>\r\n<p style=\"text-align: justify;\">Оплачивается дополнительно: входные билеты по программе, обед</p>\r\n<hr />-->\r\n<p style=\"text-align: justify;\"><strong>Незабываемым станет посещение этого геологического чуда природы, внесенного в Список всемирного наследия ЮНЕСКО. Метеоры необходимо увидеть своими глазами, чтобы поверить в их существование. </strong></p>\r\n<p style=\"text-align: justify;\">Христианские монастыри Метеоры, основанные на гигантских обрывистых скалах, величественно устремлённые в небо, вызывают непередаваемое чувство, соединяющее в себе одновременно страх и восхищение. «Восьмое чудо света» - так называют это место. И это лишь бледная попытка передать словами величие Метеор с их удивительным сочетанием природной красоты и величия человеческого духа.  «Парящие в воздухе» - так переводится название этого места.</p>\r\n<p style=\"text-align: justify;\">Потрясающие пейзажи составляют сотни скал, которые устремлены в небо, как гигантские зубья. Скалы с течением времени приобрели самые причудливые формы и напоминают «город из скал». На их вершинах невероятным образом расположены монастыри ХIV-XVI веков: бесценные памятники истории и культуры с их богатейшими коллекциями икон, фресок и особенной архитектурой. До сегодняшнего дня то, как строились эти монастыри, остаётся загадкой. В период расцвета монастырской жизни, в XVI веке, здесь одновременно были открыты 24 монастыря. В наши дни их осталось шесть: четыре мужских и два женских. Все они доступны для туристов. Сегодня Метеоры – одно из самых посещаемых паломнических мест в Греции. </p>\r\n<p style=\"text-align: justify;\"><strong>Продолжительность экскурсии:</strong></p>\r\n<ul>\r\n<li>полный день</li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><strong>В стоимость входит:</strong></p>\r\n<ul>\r\n<li>переезд по программе,</li>\r\n<li>экскурсия с гидом,</li>\r\n<li>посещение одного или нескольких монастырей</li>\r\n</ul>\r\n<p><strong>Оплачивается дополнительно:</strong></p>\r\n<ul>\r\n<li>входные билеты по программе,</li>\r\n<li>обед</li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><strong>Примечания:</strong></p>\r\n<ul style=\"text-align: justify;\">\r\n<li>Женщинам запрещён вход в монастырь в брюках, шортах, мини-юбках, а также в блузках с открытыми плечами. </li>\r\n<li>Мужчинам запрещён вход в монастырь в шортах, а также в блузах с открытыми плечами.</li>\r\n<li>Стоимость входного билета в монастыри - 3 евро/1 монастырь</li>\r\n<li>Советуем надевать удобную обувь.</li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</em></p>",
+        "seoUrl": "meteori",
+        "durationCategory": 3,
+        "daysOfWeek": [2, 6],
+        "availableDates": [
+          "2020-06-02",
+          "2020-06-06",
+          "2020-06-09",
+          "2020-06-13",
+          "2020-06-16",
+          "2020-06-20",
+          "2020-06-23",
+          "2020-06-27",
+          "2020-06-30"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5228.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5228.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5230.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5230.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7795.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7795.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7798.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7798.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7799.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7799.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7800.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7800.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7801.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7801.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5240.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5240.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5229.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5229.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5231.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5231.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5232.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5232.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5234.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5234.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5235.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5235.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5236.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5236.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5237.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5237.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5238.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5238.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5239.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5239.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5241.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5241.jpeg",
+            "order": 18
+          }
+        ],
+        "availableFrom": "2020-06-02T00:00:00+03:00",
+        "availableTo": "2020-06-30T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 4866.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTcwMV9fM18tNzg3NjY0NDA1XzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 4866.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTcwMV9fNTRfLTc4NzY2NDQwNF8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 2433.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTcwMV9fNzFfLTc4NzY2NDQwM18xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 1433,
+        "masterExcursionId": 1722,
+        "packetId": 624314,
+        "name": "Афины ",
+        "photo": "/userfiles/excursiongalleries/pictures/6/2354.jpeg",
+        "description": "<p>Афины - столица Греции - город удивительной судьбы, живое свидетельство высших достижений культуры, которые находят свое непосредственное выражение в памятниках различных эпох. Только побывав в этом городе, можно проникнуться его атмосферой и прикоснуться к истории. </p>\r\n<p>Во время экскурсии мы познакомимся с тем, что составляет славу Греции: Парфенон, Эрехтейон с его знаменитыми кариатидами, Пропилеи и храм Бескрылой Ники (на Акрополе), которые с 1987 года включены в список всемирного наследия ЮНЕСКО. Посетим музей Акрополя (по желанию - в свободное время) с его богатейшей коллекцией. Увидим храм Зевса Олимпийского, Одеон Геродота Аттического, на сцене которого и сегодня даются различные представления, беломраморный стадион, где в 1896 году прошли первые Олимпийские игры современности, а также здания Парламента, Афинского университета и Академии наук.</p>\r\n<p>Можно не сомневаться, что в Вашей памяти сохранится и красочная церемония смены почётного караула у памятника Неизвестному Солдату. Завершается экскурсия пешеходной прогулкой по живописному району «старых» Афин - Плаке с множеством сувенирных магазинов, традиционных таверн и уютных кафе.</p>\r\n<p> Программа предполагает вечерний выезд, ночной переезд с техническими остановками.</p>\r\n<p><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</em></p>",
+        "seoUrl": "afini",
+        "durationCategory": 3,
+        "daysOfWeek": [5],
+        "availableDates": [
+          "2020-06-05",
+          "2020-06-12",
+          "2020-06-19",
+          "2020-06-26"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2354.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2354.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2372.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2372.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2367.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2367.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2368.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2368.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2364.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2364.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2355.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2355.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2356.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2356.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2360.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2360.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2374.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2374.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2373.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2373.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2362.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2362.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2359.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2359.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2361.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2361.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2357.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2357.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2358.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2358.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2366.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2366.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2363.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2363.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2365.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2365.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2369.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2369.jpeg",
+            "order": 19
+          }
+        ],
+        "availableFrom": "2020-06-05T00:00:00+03:00",
+        "availableTo": "2020-06-26T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 6952.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTcyMl9fM18tNzg3NjYzNDQ0XzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 6952.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTcyMl9fNTRfLTc4NzY2MzQ0M18xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 3476.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTcyMl9fNzFfLTc4NzY2MzQ0Ml8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 3433,
+        "masterExcursionId": 3201,
+        "packetId": 624314,
+        "name": "Мецово-Метеора  (2 дня)",
+        "photo": "/userfiles/excursiongalleries/pictures/722/10055.jpeg",
+        "description": "<p>Никогда прежде поездка в Метеоры не была такой захватывающей! Уникальный тур, позволяющий Грецию с совершенно новой стороны. Окунитесь в атмосферу горной Греции, со всем богатством лесов и горных рек. Гурме-путешествие в горный городок Мецово – сырную столицу Эллады и один из духовных центров страны – монастыри Метеор.<br /> <br />Первый день – городок Мецово. Один из самых интересных поселков региона Эпир, известный превосходными сырами, винами, а также своим историческим происхождением и очаровательными пейзажами. Можно смело сказать, что в этом месте время остановилось. Здесь до сих поря чтят традиции древних эллинов, и многие местные жители предпочитают современной одежде национальные костюмы. В Мецово вы почувствуете Грецию  и на вкус. Вы будете покорены разнообразием вин одной из самых известных высокогорных виноделен Европы и попробуете сыры, приготовленные по старинным рецептам.<br /> <br />Завершением дня станет встреча заката в тени \"парящих в воздухе\" скал Метеор.<br /> <br />Второй день – посещение монастырей Метеор. Христианские монастыри были основаны на гигантских обрывистых скалах еще в XIV веке. Величественно устремляясь в небо, они вызывают непередаваемые ощущения, показывая, как гармонично может сочетаться творение рук человека с уникальным природным явлением. «Восьмое чудо света» - так называют это место. И это лишь маленькая попытка передать словами величие Метеор с их удивительным неповторимым миром. Сегодня Метеоры – одно из самых посещаемых паломнических мест в Греции и один из объектов Списка всемирного наследия ЮНЕСКО. </p>\r\n<p>В рамках программы вы посещаете 2 монастыря из 6 действующих на сегодняшний день.<br /> <br />Следующей остановкой станет Храм Святой Параскевы - один из главных паломнических центров Северной Греции. Храм находится в самом узком месте Темпийского ущелья, и попасть к нему можно, пройдя по красивому подвесному мосту. На территории комплекса есть озеро, а также источник с целебной питьевой водой, находящийся внутри скалы. Но главное - здесь всегда присутствует атмосфера умиротворения, спокойствия и красоты!</p>\r\n<p><br /><strong>Продолжительность экскурсии:</strong></p>\r\n<ul>\r\n<li>2 полных дня</li>\r\n</ul>\r\n<p><strong>В стоимость входит:</strong></p>\r\n<ul>\r\n<li>переезд по программе,</li>\r\n<li>размещение в отеле в Каламбаке (двух-, трехместные номера)</li>\r\n<li>ужин и завтрак в отеле в Каламбаке</li>\r\n<li>экскурсии с гидом,</li>\r\n<li>посещение нескольких монастырей в Метеорах</li>\r\n</ul>\r\n<p><strong>Оплачивается дополнительно:</strong></p>\r\n<ul>\r\n<li>входные билеты по программе,</li>\r\n<li>обеды,</li>\r\n<li>напитки на ужине в отеле в Каламбаке</li>\r\n<li>дополнительные расходы</li>\r\n</ul>\r\n<p><strong>Примечания:</strong></p>\r\n<ul>\r\n<li>Обязательно иметь при себе оригинал загранпаспорта для размещения в отеле,</li>\r\n<li>Женщинам запрещён вход в монастыри Метеор в брюках, шортах, мини-юбках, а также в блузках с открытыми плечами.</li>\r\n<li>Мужчинам запрещён вход в монастыри Метеор в шортах, а также в рубашках с открытыми плечами.</li>\r\n<li>Стоимость входных билетов: монастыри Метеор – 3 евро/1 монастырь, краеведческий музей – 3 евро, винодельня Катоги Аверов – 3е, 5е, 7е ( зависит от вин). На дегустации дают три вида вина, сырная тарелка - 15 евро</li>\r\n<li>Советуем надевать удобную обувь.</li>\r\n</ul>\r\n<p>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</p>",
+        "seoUrl": "meczovo-meteora-chalk-kas",
+        "durationCategory": 0,
+        "daysOfWeek": [2],
+        "availableDates": [
+          "2020-06-02",
+          "2020-06-09",
+          "2020-06-16",
+          "2020-06-23",
+          "2020-06-30"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10055.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10055.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10056.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10056.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10057.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10057.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10058.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10058.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10059.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10059.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10060.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10060.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10061.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10061.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10062.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10062.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10063.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10063.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10064.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10064.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10065.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10065.jpeg",
+            "order": 11
+          }
+        ],
+        "availableFrom": "2020-06-02T00:00:00+03:00",
+        "availableTo": "2020-06-30T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 11122.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MzIwMV9fM18xNzIzMjg3NDAxXzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 11122.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MzIwMV9fNTRfMTcyMzI4NzQwMl8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 7647.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MzIwMV9fNzFfMTcyMzI4NzQwM18xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 109,
+        "masterExcursionId": 1717,
+        "packetId": 624314,
+        "name": "Метеоры + о. Корфу (2 дня)",
+        "photo": "/userfiles/excursiongalleries/pictures/73/6073.jpeg",
+        "description": "<p>Совместите в одной поездке возможность увидеть два сокровища Греции – <strong>о. Корфу</strong> и монастыри <strong>Метеоры, </strong>посещение которых редко удаётся сочетать в одном путешествии. Метеоры и Старый город Корфу <strong>включены в список Всемирного наследия ЮНЕСКО.</strong><br /> <br /> Христианские монастыри <strong>Метеоры, </strong>основанные на гигантских обрывистых скалах, величественно устремлённые в небо, вызывают непередаваемое чувство, соединяющее в себе одновременно страх и восхищение. До сегодняшнего дня то, как строились эти монастыри, остаётся загадкой. Скалы с течением времени приобрели самые причудливые формы и напоминают «город из скал». Во время экскурсии предусмотрен осмотр cкал Метеоры, а также посещение действующего монастыря.</p>\r\n<p>После посещения Метеоры путь лежит в Игуменицу, портовый город, одну из главных морских гаваней страны. Отсюда в ясную погоду видны очертания жемчужины Ионического моря – острова Корфу. Расстояние, отделяющее материк от острова, комфортабельный пассажирский паром преодолевает за один час. Прибытие на остров, размещение в уютном отеле, ужин и ночлег.<br /> <br /> Утром следующего дня, после завтрака в отеле, начнётся ваше знакомство с городом <strong>Корфу.</strong> Архитектура города удивительным образом сочетает в себе венецианские и англо-французские элементы. Среди самых значительных достопримечательностей - Старая и Новая крепости, «визитная карточка» Корфу – остров Понтикониси, а также самая большая площадь Греции – Спинада, дворец Архангела Михаила и св. Георгия, многочисленные византийские и поствизантийские храмы, среди которых выделяется храм св. Спиридона – защитника и покровителя острова. Важным памятником Корфу является также потрясающе красивый дворец Ахиллион – резиденция императрицы Австро-Венгрии Елисаветы (Сиси). Остров очаровывает и влюбляет в себя с первого взгляда.</p>\r\n<p><strong>Продолжительность экскурсии:</strong></p>\r\n<ul>\r\n<li>2 полных дня</li>\r\n</ul>\r\n<p><strong>В стоимость входит:</strong></p>\r\n<ul>\r\n<li>переезды по программе (автобус+паром),</li>\r\n<li>размещение в отеле на о. Корфу (двух-, трехместные номера)</li>\r\n<li>ужин и завтрак в отеле на о. Корфу</li>\r\n<li>экскурсии с гидом,</li>\r\n<li>посещение одного или нескольких монастырей в Метеорах</li>\r\n</ul>\r\n<p><strong>Оплачивается дополнительно:</strong></p>\r\n<ul>\r\n<li>входные билеты по программе,</li>\r\n<li>обеды, </li>\r\n<li>напитки на ужине в отеле на о. Корфу</li>\r\n<li>дополнительные расходы</li>\r\n</ul>\r\n<p><strong>Примечания:</strong></p>\r\n<ul>\r\n<li>Обязательно иметь при себе оригинал загранпаспорта для размещения в отеле,</li>\r\n<li>Женщинам запрещён вход в монастыри Метеор в брюках, шортах, мини-юбках, а также в блузках с открытыми плечами. </li>\r\n<li>Мужчинам запрещён вход в монастыри Метеор в шортах, а также в блузах с открытыми плечами.</li>\r\n<li>Стоимость входного билета в монастыри Метеор - 3 евро/1 монастырь, стоимость входного билета во дворец Ахиллеон - 8 евро,</li>\r\n<li>Советуем надевать удобную обувь.</li>\r\n</ul>\r\n<p><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</em></p>",
+        "seoUrl": "corfu-meteora",
+        "durationCategory": 3,
+        "daysOfWeek": [0],
+        "availableDates": [
+          "2020-06-07",
+          "2020-06-14",
+          "2020-06-21",
+          "2020-06-28"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6073.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6073.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6075.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6075.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6076.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6076.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2293.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2293.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2292.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2292.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2298.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2298.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2294.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2294.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2295.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2295.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2296.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2296.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6072.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6072.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6074.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6074.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2297.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2297.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2299.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2299.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2300.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2300.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2301.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2301.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2302.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2302.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2303.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2303.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2304.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2304.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2305.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2305.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6071.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6071.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2306.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2306.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2307.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2307.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2308.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2308.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2309.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2309.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2310.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2310.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2311.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2311.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2312.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2312.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2313.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2313.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2314.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2314.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2315.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2315.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2316.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2316.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2317.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2317.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2318.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2318.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2319.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2319.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2320.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2320.jpeg",
+            "order": 35
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2321.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2321.jpeg",
+            "order": 36
+          }
+        ],
+        "availableFrom": "2020-06-07T00:00:00+03:00",
+        "availableTo": "2020-06-28T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 12513.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTcxN19fM18tNzg3NjYzODY1XzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 12513.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTcxN19fNTRfLTc4NzY2Mzg2NF8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 7647.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTcxN19fNzFfLTc4NzY2Mzg2M18xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      },
+      {
+        "id": 132,
+        "masterExcursionId": 1706,
+        "packetId": 624314,
+        "name": "Афины + Метеоры (2 дня)",
+        "photo": "/userfiles/excursiongalleries/pictures/81/6064.jpeg",
+        "description": "<p style=\"text-align: justify;\">Предлагаем вашему вниманию новую двухдневную экскурсионную программу,которая познакомит вас с двумя «греческими чудесами», такими разными, но одинаково впечатляющими.</p>\r\n<p style=\"text-align: justify;\"><strong>Первый экскурсионный день</strong> - знаменитые Метеоры.</p>\r\n<p style=\"text-align: justify;\">Они относятся к числу наиболее почитаемых центров паломничества для всех православных христиан. В то же время Метеоры - одно из самых популярных туристических мест (активно посещаемых не только иностранными гостями, но и самими греками). Грандиозные скалы, устремляющиеся ввысь с ровной поверхности Фессалийской долины и достигающие высоты 600 метров, представляют редкое геологическое явление.</p>\r\n<p style=\"text-align: justify;\">Несколько сотен лет назад на вершинах метеорских скал непостижимым образом были возведены православные монастыри.</p>\r\n<p style=\"text-align: justify;\">По окончанию экскурсии запланирована остановка на обед (за свой счет) и переезд в Афины (через Ламию). Расселение в отеле Афин (завтрак, ужин в отеле включены в стоимость экскурсии)</p>\r\n<p style=\"text-align: justify;\"><strong>Второй день</strong> - посещение Афин, столицы Греции, города с великой историей и насыщенной современной жизнью. Помимо величественного Акрополя, по желанию, вы сможете посетить и получивший всемирную славу Новый Музей Афинского Акрополя, распахнувший свои двери для гостей со всего света в июне 2009 года. Кроме того, профессиональный гид ознакомит вас с основными достопримечательностями Афин, этого древнего и удивительного города. Можно не сомневаться, что в Вашей памяти сохранится и красочная церемония смены почётного караула у памятника Неизвестному Солдату.</p>\r\n<p style=\"text-align: justify;\">После обзорной экскурсии предусмотрено свободное время в историческом центре Афин.</p>\r\n<p style=\"text-align: justify;\">На обратном пути автобус совершит остановку в Фермопильском ущелье, у памятника великому Леониду и спартанцам.</p>\r\n<p><strong>Продолжительность экскурсии:</strong></p>\r\n<ul>\r\n<li>2 полных дня</li>\r\n</ul>\r\n<p><strong>В стоимость входит:</strong></p>\r\n<ul>\r\n<li>переезд по программе,</li>\r\n<li>размещение в отеле в Афинах (двух-, трехместные номера)</li>\r\n<li>ужин и завтрак в отеле в Афинах</li>\r\n<li>экскурсии с гидом,</li>\r\n<li>посещение одного или нескольких монастырей в Метеорах</li>\r\n</ul>\r\n<p><strong>Оплачивается дополнительно:</strong></p>\r\n<ul>\r\n<li>входные билеты по программе,</li>\r\n<li>обеды, </li>\r\n<li>напитки на ужине в отеле в Афинах</li>\r\n<li>дополнительные расходы</li>\r\n</ul>\r\n<p><strong>Примечания:</strong></p>\r\n<ul>\r\n<li>Обязательно иметь при себе оригинал загранпаспорта для размещения в отеле,</li>\r\n<li>Женщинам запрещён вход в монастыри Метеор в брюках, шортах, мини-юбках, а также в блузках с открытыми плечами. </li>\r\n<li>Мужчинам запрещён вход в монастыри Метеор в шортах, а также в блузах с открытыми плечами.</li>\r\n<li>Стоимость входных билетов: монастыри Метеор – 3 евро/1 монастырь, Акрополь – 20 евро, новый музей Акрополя – 5 евро, </li>\r\n<li>Советуем надевать удобную обувь.</li>\r\n</ul>\r\n<p style=\"text-align: justify;\"><em>*Программа экскурсии может быть изменена в случае обстоятельств непреодолимой силы (форс-мажор), по погодным условиям либо на усмотрение гида</em></p>",
+        "seoUrl": "ex-metera-athens",
+        "durationCategory": 3,
+        "daysOfWeek": [4],
+        "availableDates": [
+          "2020-06-04",
+          "2020-06-11",
+          "2020-06-18",
+          "2020-06-25"
+        ],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6064.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6064.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6061.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6061.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6065.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6065.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6066.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6066.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6050.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6050.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6051.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6051.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6052.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6052.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6053.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6053.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6054.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6054.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6062.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6062.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6055.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6055.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2286.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2286.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2285.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2285.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2287.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2287.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6063.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6063.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2288.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2288.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6067.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6067.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2289.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2289.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6068.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6068.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6070.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6070.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2290.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2290.jpeg",
+            "order": 21
+          }
+        ],
+        "availableFrom": "2020-06-04T00:00:00+03:00",
+        "availableTo": "2020-06-25T00:00:00+03:00",
+        "region": {
+          "id": 56,
+          "name": "Халкидики-Кассандра"
+        },
+        "country": {
+          "id": 29,
+          "name": "Греция"
+        },
+        "adultPrice": {
+          "amount": 13903.0,
+          "currencyCode": "RUR",
+          "disableCustomSumm": false
+        },
+        "prices": [
+          {
+            "name": "Автобус (Групповая)",
+            "priceFor": "Group",
+            "variants": [
+              {
+                "serviceId": "MTcwNl9fM18tNzg3NjYzODkyXzEwNzc2XzYyNDMxNF9Hcm91cA==",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 11,
+                "addPrice": 13903.0,
+                "isGroupCost": true,
+                "isAdult": true
+              },
+              {
+                "serviceId": "MTcwNl9fNTRfLTc4NzY2Mzg5MV8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 6,
+                "touristMaxAge": 11,
+                "addPrice": 8342.0,
+                "isGroupCost": true,
+                "isAdult": false
+              },
+              {
+                "serviceId": "MTcwNl9fNzFfLTc4NzY2Mzg5MF8xMDc3Nl82MjQzMTRfR3JvdXA=",
+                "currencyCode": "RUR",
+                "minTourists": 1,
+                "maxTourists": 1,
+                "touristMinAge": 0,
+                "touristMaxAge": 5,
+                "addPrice": 0.0,
+                "isGroupCost": true,
+                "isAdult": false
+              }
+            ]
+          }
+        ],
+        "type": "Group"
+      }
+    ],
+    "pageCount": 1
+  },
+  "elapsedMilliseconds": 390
+}

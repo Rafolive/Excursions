@@ -1,0 +1,1713 @@
+{
+  "success": true,
+  "data": {
+    "daysOfWeek": [
+      {
+        "id": 1,
+        "order": 1,
+        "name": "Понедельник"
+      },
+      {
+        "id": 2,
+        "order": 2,
+        "name": "Вторник"
+      },
+      {
+        "id": 3,
+        "order": 3,
+        "name": "Среда"
+      },
+      {
+        "id": 4,
+        "order": 4,
+        "name": "Четверг"
+      },
+      {
+        "id": 5,
+        "order": 5,
+        "name": "Пятница"
+      },
+      {
+        "id": 6,
+        "order": 6,
+        "name": "Суббота"
+      },
+      {
+        "id": 0,
+        "order": 7,
+        "name": "Воскресенье"
+      }
+    ],
+    "durations": [
+      {
+        "id": 0,
+        "name": "по запросу"
+      },
+      {
+        "id": 3,
+        "name": "более 8-ми часов"
+      }
+    ],
+    "pageNumber": 1,
+    "pageSize": 10,
+    "totalCount": 10,
+    "items": [
+      {
+        "id": 109,
+        "masterExcursionId": 1717,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/73/6073.jpeg",
+        "seoUrl": "corfu-meteora",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          0
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6073.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6073.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6075.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6075.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6076.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6076.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2293.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2293.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2292.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2292.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2298.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2298.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2294.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2294.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2295.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2295.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2296.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2296.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6072.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6072.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6074.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6074.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2297.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2297.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2299.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2299.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2300.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2300.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2301.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2301.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2302.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2302.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2303.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2303.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2304.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2304.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2305.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2305.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/6071.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/6071.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2306.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2306.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2307.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2307.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2308.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2308.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2309.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2309.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2310.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2310.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2311.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2311.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2312.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2312.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2313.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2313.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2314.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2314.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2315.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2315.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2316.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2316.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2317.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2317.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2318.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2318.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2319.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2319.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2320.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2320.jpeg",
+            "order": 35
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/73/2321.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/73/2321.jpeg",
+            "order": 36
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 3433,
+        "masterExcursionId": 3201,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/722/10055.jpeg",
+        "seoUrl": "meczovo-meteora-chalk-kas",
+        "durationCategory": 0,
+        "daysOfWeek": [
+          2
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10055.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10055.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10056.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10056.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10057.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10057.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10058.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10058.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10059.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10059.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10060.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10060.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10061.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10061.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10062.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10062.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10063.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10063.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10064.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10064.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/722/10065.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/722/10065.jpeg",
+            "order": 11
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 1433,
+        "masterExcursionId": 1722,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/6/2354.jpeg",
+        "seoUrl": "afini",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          5
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2354.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2354.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2372.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2372.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2367.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2367.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2368.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2368.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2364.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2364.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2355.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2355.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2356.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2356.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2360.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2360.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2374.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2374.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2373.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2373.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2362.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2362.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2359.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2359.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2361.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2361.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2357.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2357.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2358.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2358.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2366.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2366.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2363.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2363.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2365.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2365.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/6/2369.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/6/2369.jpeg",
+            "order": 19
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 132,
+        "masterExcursionId": 1706,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/81/6064.jpeg",
+        "seoUrl": "ex-metera-athens",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          4
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6064.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6064.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6061.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6061.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6065.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6065.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6066.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6066.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6050.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6050.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6051.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6051.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6052.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6052.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6053.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6053.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6054.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6054.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6062.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6062.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6055.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6055.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2286.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2286.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2285.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2285.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2287.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2287.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6063.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6063.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2288.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2288.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6067.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6067.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2289.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2289.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6068.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6068.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/6070.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/6070.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/81/2290.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/81/2290.jpeg",
+            "order": 21
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 199,
+        "masterExcursionId": 1723,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/141/2409.jpeg",
+        "seoUrl": "vergina-olimp-dion-2012",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          0,
+          3
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2409.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2409.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6003.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6003.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2415.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2415.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2407.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2407.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2414.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2414.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2422.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2422.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6001.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6001.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2408.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2408.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2410.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2410.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6002.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6002.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2412.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2412.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6005.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6005.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2413.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2413.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2416.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2416.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2417.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2417.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2418.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2418.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2419.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2419.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2420.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2420.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2411.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2411.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5988.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5988.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5989.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5989.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5987.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5987.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5990.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5990.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/5991.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/5991.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2424.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2424.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2423.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2423.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/6004.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/6004.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2425.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2425.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2426.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2426.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2427.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2427.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/141/2428.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/141/2428.jpeg",
+            "order": 31
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 1442,
+        "masterExcursionId": 1701,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/31/5228.jpeg",
+        "seoUrl": "meteori",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          2,
+          6
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5228.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5228.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5230.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5230.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7795.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7795.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7798.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7798.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7799.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7799.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7800.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7800.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/7801.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/7801.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5240.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5240.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5229.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5229.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5231.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5231.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5232.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5232.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5234.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5234.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5235.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5235.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5236.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5236.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5237.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5237.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5238.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5238.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5239.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5239.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/31/5241.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/31/5241.jpeg",
+            "order": 18
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 553,
+        "masterExcursionId": 1679,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/258/7999.jpeg",
+        "seoUrl": "excursion-po-svjatim-mestam-salonik",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          2
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7999.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7999.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7998.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7998.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8000.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8000.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8001.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8001.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8002.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8002.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8003.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8003.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8004.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8004.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8005.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8005.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8006.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8006.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8007.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8007.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8008.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8008.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8009.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8009.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8010.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8010.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8011.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8011.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8012.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8012.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8013.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8013.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8014.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8014.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8015.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8015.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8016.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8016.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8017.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8017.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8018.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8018.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8019.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8019.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8020.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8020.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8021.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8021.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8022.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8022.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8023.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8023.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8024.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8024.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8025.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8025.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8026.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8026.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/8027.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/8027.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7815.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7815.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3109.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3109.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3108.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3108.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7837.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7837.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/7840.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/7840.jpeg",
+            "order": 35
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3107.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3107.jpeg",
+            "order": 36
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/258/3110.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/258/3110.jpeg",
+            "order": 37
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 18,
+        "masterExcursionId": 1684,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/5/2406.jpeg",
+        "seoUrl": "ex-thessaloniki",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          1,
+          5
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2406.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2406.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7822.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7822.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7816.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7816.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7819.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7819.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7821.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7821.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7824.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7824.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7826.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7826.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7828.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7828.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7829.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7829.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7831.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7831.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/7833.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/7833.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2405.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2405.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2403.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2403.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2392.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2392.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2391.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2391.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2394.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2394.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2393.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2393.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2395.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2395.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2396.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2396.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2397.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2397.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2398.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2398.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2399.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2399.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2400.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2400.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2401.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2401.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2402.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2402.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/5/2404.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/5/2404.jpeg",
+            "order": 26
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 26,
+        "masterExcursionId": 1654,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/13/6016.jpeg",
+        "seoUrl": "ex-aridea-edessa",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          2,
+          4
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6016.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6016.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6013.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6013.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6014.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6014.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6015.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6015.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6017.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6017.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6018.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6018.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6019.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6019.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6020.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6020.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6021.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6021.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/6022.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/6022.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2491.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2491.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2492.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2492.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2502.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2502.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2493.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2493.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2494.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2494.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2495.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2495.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2496.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2496.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2497.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2497.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2498.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2498.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2499.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2499.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2500.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2500.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2501.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2501.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2503.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2503.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2504.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2504.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2505.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2505.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2507.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2507.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3368.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3368.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3370.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3370.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3374.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3374.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3369.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3369.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3373.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3373.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3372.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3372.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3371.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3371.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/3367.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/3367.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/13/2508.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/13/2508.jpeg",
+            "order": 35
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      },
+      {
+        "id": 554,
+        "masterExcursionId": 2852,
+        "packetId": 624314,
+        "photo": "/userfiles/excursiongalleries/pictures/261/7820.jpeg",
+        "seoUrl": "excursion-po-svjatim-mestam-verii",
+        "durationCategory": 3,
+        "daysOfWeek": [
+          4
+        ],
+        "availableDates": [],
+        "photos": [
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7820.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7820.jpeg",
+            "order": 1
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7817.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7817.jpeg",
+            "order": 2
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7836.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7836.jpeg",
+            "order": 3
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7838.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7838.jpeg",
+            "order": 4
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7842.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7842.jpeg",
+            "order": 5
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7843.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7843.jpeg",
+            "order": 6
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7844.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7844.jpeg",
+            "order": 7
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7845.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7845.jpeg",
+            "order": 8
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7846.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7846.jpeg",
+            "order": 9
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7847.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7847.jpeg",
+            "order": 10
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7848.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7848.jpeg",
+            "order": 11
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7849.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7849.jpeg",
+            "order": 12
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7850.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7850.jpeg",
+            "order": 13
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7851.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7851.jpeg",
+            "order": 14
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7852.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7852.jpeg",
+            "order": 15
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7853.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7853.jpeg",
+            "order": 16
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7854.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7854.jpeg",
+            "order": 17
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7855.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7855.jpeg",
+            "order": 18
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7856.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7856.jpeg",
+            "order": 19
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7857.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7857.jpeg",
+            "order": 20
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7858.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7858.jpeg",
+            "order": 21
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/7859.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/7859.jpeg",
+            "order": 22
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4770.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4770.jpeg",
+            "order": 23
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4771.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4771.jpeg",
+            "order": 24
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4766.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4766.jpeg",
+            "order": 25
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4757.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4757.jpeg",
+            "order": 26
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4753.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4753.jpeg",
+            "order": 27
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4751.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4751.jpeg",
+            "order": 28
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4752.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4752.jpeg",
+            "order": 29
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4754.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4754.jpeg",
+            "order": 30
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4756.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4756.jpeg",
+            "order": 31
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4758.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4758.jpeg",
+            "order": 32
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4759.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4759.jpeg",
+            "order": 33
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4760.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4760.jpeg",
+            "order": 34
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4761.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4761.jpeg",
+            "order": 35
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4762.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4762.jpeg",
+            "order": 36
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4763.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4763.jpeg",
+            "order": 37
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4764.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4764.jpeg",
+            "order": 38
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4765.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4765.jpeg",
+            "order": 39
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4767.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4767.jpeg",
+            "order": 40
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4768.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4768.jpeg",
+            "order": 41
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4769.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4769.jpeg",
+            "order": 42
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4772.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4772.jpeg",
+            "order": 43
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4755.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4755.jpeg",
+            "order": 44
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4773.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4773.jpeg",
+            "order": 45
+          },
+          {
+            "url": "/userfiles/excursiongalleries/pictureshd/261/4774.jpeg",
+            "thumbnailUrl": "/userfiles/excursiongalleries/thumbshd/261/4774.jpeg",
+            "order": 46
+          }
+        ],
+        "availableFrom": "2020-06-01T00:00:00",
+        "availableTo": "2020-09-30T00:00:00",
+        "region": {
+          "id": 56,
+          "name": "Chalkidiki-Kassandra"
+        },
+        "country": {
+          "id": 29,
+          "name": "Greece"
+        },
+        "type": "Group"
+      }
+    ],
+    "pageCount": 1
+  },
+  "elapsedMilliseconds": 109
+}
