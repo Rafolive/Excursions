@@ -1,0 +1,31 @@
+header {
+  background-color: #005aa9;
+  color: white;
+  .header {
+    display: flex;
+    min-height: 56px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .logo {
+    max-width: 100px;
+    width: 100%;
+    height: auto;
+  }
+  .flag {
+    margin-right: 0.05rem;
+  }
+  .header-select {
+    background: transparent;
+    color: #ffffff;
+    outline: none !important;
+    text-indent: 1px;
+    text-overflow: "";
+    appearance: none;
+    padding: 0.25rem 0.5rem;
+    border: none;
+    option {
+      color: #333;
+    }
+  }
+}
